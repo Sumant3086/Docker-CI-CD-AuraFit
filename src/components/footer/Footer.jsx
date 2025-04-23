@@ -17,7 +17,7 @@ const Footer = () => {
           <ul className='footer-text'>
             <li>Fitness Edge Gym</li>
             <li>Sports Complex</li>
-            <li>mon - sun  0:00 - 0:00</li>
+            <li>mon - sun  </li>
           </ul>
         </div>
 
