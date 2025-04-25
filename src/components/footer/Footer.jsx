@@ -43,7 +43,7 @@ const Footer = () => {
         <div className="col4">
           <h3 className='footer-title'><span class="underline">Get in touch</span></h3>
           <ul className='footer-text'>
-            <li>sumantyadav3086@gmail.com</li>
+            <li>sumantyadav@gmail.com</li>
             <li>+91 9599 617 479</li>
           </ul>
         </div>
