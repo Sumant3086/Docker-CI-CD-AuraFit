@@ -23,7 +23,7 @@ const Classes = () => {
 
   return (
     <section className="classes">
-      <h1 className="classes-title">Classes schedule</h1>
+      <h1 className="classes-title">Class schedule</h1>
       <div className="classes-container">
         <div className='classes-days'>
           {Object.keys(classesByDay).map((day) => (
